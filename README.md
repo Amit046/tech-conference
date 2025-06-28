@@ -1,2 +1,21 @@
-# tech-conference
-A personal portfolio website with a tech-conference-style layout, built using HTML, CSS, and JavaScript. Includes speaker sections, project highlights, and responsive design.
+# 🎤 Tech Conference Portfolio Website
+
+This is my personal portfolio website designed with a **tech conference** theme. It features modern speaker cards, a dark UI, and responsive design. The site was developed during the **Innovatecloud Solutions trainee program** (June 2025).
+
+🔗 **Live Website:** [https://amit046.github.io/tech-conference/](https://amit046.github.io/tech-conference/)  
+📁 **GitHub Repo:** [https://github.com/Amit046/tech-conference](https://github.com/Amit046/tech-conference)
+
+---
+
+## 🚀 Features
+
+- 🎨 Dark-themed modern portfolio layout
+- 🧑‍💻 Tech conference-style speaker cards
+- 📱 Fully responsive on mobile and desktop
+- 🖼️ PNG image support for avatars
+- ⚙️ Clean code using HTML, CSS, and JavaScript
+
+---
+
+## 📂 Folder Structure
+
