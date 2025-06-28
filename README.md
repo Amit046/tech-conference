@@ -19,3 +19,10 @@ This is my personal portfolio website designed with a **tech conference** theme.
 
 ## 📂 Folder Structure
 
+tech-conference/
+├── index.html # Main portfolio page
+├── your-page.html # Optional additional page
+├── style1.css # Primary CSS file
+├── style2.css # Additional styling
+├── your-page.css # CSS for optional page
+├── script.js # JavaScript for interactivity
