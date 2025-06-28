@@ -12,7 +12,7 @@ This is my personal portfolio website designed with a **tech conference** theme.
 - 🎨 Dark-themed modern portfolio layout
 - 🧑‍💻 Tech conference-style speaker cards
 - 📱 Fully responsive on mobile and desktop
-- 🖼️ PNG image support for avatars
+
 - ⚙️ Clean code using HTML, CSS, and JavaScript
 
 ---
